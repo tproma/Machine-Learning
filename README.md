@@ -6,4 +6,6 @@ Topics of Machine Learning covered
 - Decision Tree
 - Regression tree
 - Clustering 
-- genetic Algorithm
+- - K mean 
+- - Fuzzy
+- Genetic Algorithm
