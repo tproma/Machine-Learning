@@ -9,3 +9,4 @@ Topics of Machine Learning covered
   - K mean 
   - Fuzzy
 - Genetic Algorithm
+- ROC measure
